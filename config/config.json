@@ -1,0 +1,9 @@
+{
+  "kafka": "kafka:29092",
+  "messagesCount" : 10,
+  "time" : 5,
+  "topic" : "example",
+  "groupId": "foo",
+  "producerNum": 3,
+  "consumerNum": 3
+}
